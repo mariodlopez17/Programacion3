@@ -1,9 +1,7 @@
-print('Hola que tal')
-Hola que tal
+#Ejercicio 5
+
+>>> print('Hola que tal')
 >>> horas = float (input('Introduce las horas estudiadas para progra 3: '))
-Introduce las horas estudiadas para progra 3: 5
 >>> promedio = float (input('Introduce el promedio de tiempo que estudias: '))
-Introduce el promedio de tiempo que estudias: 6
 >>> estudio = round(horas + promedio, 3)
 >>> print ('Las horas estudiadas son ' + str(horas))
-Las horas estudiadas son 5.0
