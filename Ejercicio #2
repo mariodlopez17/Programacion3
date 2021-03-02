@@ -1,0 +1,5 @@
+#Ejercicio 2
+
+>>> print ('Hola, que tal')
+>>> username = input ('Cual es su username?:')
+>>> print ('¡Hola' ,username, '!')
