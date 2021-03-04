@@ -1,4 +1,7 @@
 #Ejercicio 6
+
 >>> m = int(input('Ingrese un numero entero: '))
+Ingrese un numero entero: 5
 >>> suma = m * (m + 1) / 2
 >>> print ('La suma de los primeros numeros enteros de 1 hasta ' + str(m) + ' es ' + str(suma))
+La sumatoria de los primeros numeros enteros de 1 hasta 5 es 15.0
