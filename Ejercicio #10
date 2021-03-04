@@ -1,0 +1,8 @@
+>>> #Ejercicio 10
+
+>>> barr =int (input('Ingrese el numero de barrenos vendidos: '))
+Ingrese el numero de barrenos vendidos: 50
+>>> sierra = int(input('Ingrese el numero de sierras vendidas: '))
+Ingrese el numero de sierras vendidas: 35
+>>> print('El peso total del paquete es: ',(barr*112)+(sierra*75),' Kg')
+El peso total del paquete es:  8225  Kg
