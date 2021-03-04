@@ -1,0 +1,9 @@
+#Ejercicio 7
+
+>>> kg = float(input('Ingrese su peso en Kg: '))
+Ingrese su peso en Kg: 90
+>>> alt = float(input('Ingrese su altura en Metros: '))
+Ingrese su altura en Metros: 1
+>>> imc = kg/alt**2
+>>> print('Su indice de masa corporal es: ', imc)
+Su indice de masa corporal es:  90.0
