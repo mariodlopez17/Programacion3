@@ -1,8 +1,8 @@
 #Ejercicio 2
 
 >>> print ('Hola, que tal')
->>> Hola, que tal
+Hola, que tal
 >>> username = input ('Cual es su username?:')
->>> Cual es su username?: lopezr_mario
+Cual es su username?: lopezr_mario
 >>> print ('¡Hola' ,username, '!')
->>> Hola lopezr_mario!
+Hola lopezr_mario!
