@@ -1,0 +1,12 @@
+>>> #Ejercicio 8
+
+>>> a = float(input('Ingrese un numero para a: '))
+Ingrese un numero para a: 3.2
+>>> b = float(input('Ingrese un numero para b: '))
+Ingrese un numero para b: 2.10
+>>> print('la division a/b es: ',a/b)
+la division a/b es:  1.5238095238095237
+>>> c = a/b
+>>> d = a-b
+>>> print('El valor de a^c es: ',a**c,'El valor de b^d es: ',b**d)
+El valor de a^c es:  5.885079688714939 El valor de b^d es:  2.261732424639163
