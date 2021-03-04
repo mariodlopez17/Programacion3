@@ -1,0 +1,10 @@
+>>> #Ejercicio 9
+
+>>> inv = float(input('Ingrese el monto que desea inventir: '))
+Ingrese el monto que desea inventir: 300.00
+>>> interes = float(input('Ingrese el interes anual: '))
+Ingrese el interes anual: 2.54
+>>> years = float(input('Ingrese el numero de años: '))
+Ingrese el numero de años: 6
+>>> print('Al pasar ',years,'año/s si usted retira todo el dinero obtendra: ',inv+(years*(inv*(interes*0.1))))
+Al pasar  6.0 año/s si usted retira todo el dinero obtendra:  757.2
