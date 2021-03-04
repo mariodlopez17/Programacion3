@@ -8,4 +8,4 @@
 >>> Introduce el promedio de tiempo que estudias: 6
 >>> estudio = round(horas + promedio, 3)
 >>> print ('Las horas estudiadas son ' + str(horas))
->>> Las horas estudadas son 5
+>>> Las horas estudadas son 5.0
